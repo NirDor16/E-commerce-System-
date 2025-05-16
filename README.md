@@ -1,2 +1,4 @@
 # E-commerce-System-
-E-commerce System (similar to Amazon or eBay)
+This project implements an e-commerce management system. The system stores its name and manages users, who are either buyers or sellers (a user cannot be both). Each user has a unique username and password. Buyers have a shipping address (street name, building number, city, and country) and a shopping cart with selected products not yet ordered. Sellers have a list of products they offer, without inventory tracking. Each product belongs to a category (Kids, Electronics, Office, or Clothing), has a name and price, and may require special packaging with an added cost and packing operation. When a buyer places an order, all products from the cart are included. Each order stores the buyer's details, the products, and the total price. After payment, the cart is saved to the buyer’s order history, and a new cart can be created. Buyers can view both their current cart and their order history.
+
+
